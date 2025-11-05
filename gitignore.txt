@@ -1,0 +1,17 @@
+# Flutter build files
+frontend/build/
+frontend/.dart_tool/
+frontend/.idea/
+frontend/android/.gradle/
+frontend/ios/Pods/
+
+# Node modules
+backend/node_modules/
+
+# Environment files
+backend/.env
+
+# IDE / System files
+.vscode/
+.idea/
+.DS_Store
