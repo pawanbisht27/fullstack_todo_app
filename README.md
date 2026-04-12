@@ -4,7 +4,7 @@ A complete Full Stack To-Do Application built with Flutter (Frontend) and Node.j
 Includes email-based OTP authentication, secure APIs, and a beautiful Flutter UI for managing daily tasks.
 
 
-Features
+Feature
 
 - Gmail-based Authentication (OTP shown in terminal)
 - Add, update, and delete To-Do tasks
